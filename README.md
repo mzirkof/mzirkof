@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on: **[voice AI mock interview]**
 - 🌱 Currently learning: **[Java, SpringBoot]**
 - 🛠️ Focused on: **[Frontend / Fullstack / Backend]**
-- 📫 Reach me: [opeyemioluwafisayo29@gmail.com] | [my-portfolio](https://devenny.vercel.app)
+<!-- - 📫 Reach me: [opeyemioluwafisayo29@gmail.com] | [my-portfolio](https://devenny.vercel.app) -->
 - 💡 Fun fact: *[It all started with hello world 🌏🌐]*
 
 ---
@@ -45,7 +45,7 @@
 
 ## 📂 Featured Projects
 
-### 🌏 [Quickblog](https://github.com/Enisco29/quickblog)
+<!-- ### 🌏 [Quickblog](https://github.com/Enisco29/quickblog)
 A place where users can express thereselves through blogs
 **Stack:** React, Tailwind CSS, Node.js, MongoDB
 👉 [Live Demo](http://quickblog-theta.vercel.app)
@@ -57,13 +57,13 @@ Allows users to send and receive real time message using websockets
 **Stack:** React.js, MongoDB, Socket.IO, Node.js
 🔗 [Live Demo](https://quickchat-tan.vercel.app)
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enisco29&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enisco29&layout=compact&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mzirkof&show_icons=true&theme=radical" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzirkof&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
