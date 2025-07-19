@@ -22,6 +22,8 @@
 
 ### 🛠 Tech Stack
 
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,html,css,wasm,php,python,tailwind)
+
 **Frontend**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -61,20 +63,21 @@ Allows users to send and receive real time message using websockets
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzirkof&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mzirkof&layout=compact&theme=radical" height="150" />
-</p>
+![mzirkof's Stats](https://github-readme-stats.vercel.app/api?username=mzirkof&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![mzirkof's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mzirkof&theme=vue-dark&hide_border=true)
+
+![mzirkof's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzirkof&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
 ## 🔗 Let's Connect
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://twitter.com/ennycodes"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/eniola-opeyemi-b6a701334/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:opeyemioluwafisayo29@email.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+</p> -->
 
 ---
 
