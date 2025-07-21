@@ -12,11 +12,11 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently working on: **[voice AI mock interview]**
+<!-- - 🔭 I’m currently working on: **[voice AI mock interview]**
 - 🌱 Currently learning: **[Java, SpringBoot]**
-- 🛠️ Focused on: **[Frontend / Fullstack / Backend]**
+- 🛠️ Focused on: **[Frontend / Fullstack / Backend]** -->
 <!-- - 📫 Reach me: [opeyemioluwafisayo29@gmail.com] | [my-portfolio](https://devenny.vercel.app) -->
-- 💡 Fun fact: *[It all started with hello world 🌏🌐]*
+<!-- - 💡 Fun fact: *[It all started with hello world 🌏🌐]* -->
 
 ---
 
